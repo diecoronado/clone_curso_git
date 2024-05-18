@@ -1,1 +1,1 @@
-# clone_curso_git
+# vamos a clonar el repositorio del remoto al local
